@@ -42,7 +42,7 @@ Install Scapy:
 ▶️ How To Run
 
 Run the script as root:
-  sudo python3 ddos_detector.py
+  sudo python3 DOSblocker.py
 
 📌 Configuration
 
